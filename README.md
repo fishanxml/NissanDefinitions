@@ -26,7 +26,7 @@ Each ROM has its own definition file that stores the ROM addresses for all defin
 
 ### A2L Template Specific Features
 
-- Tables Derived from [ZB060 a2l file](https://www.romraider.com/forum/viewtopic.php?f=45&t=14750) (all tables are derived from an official Nissan/Renault a2l file)
+- All Tables are Derived From an Official Nissan/Renault a2l File
 - ~221 Supported Tables 
 - Separate Maps for Ignition Timing Adjustment and Knock Window
 - Full DTC Support 
