@@ -326,7 +326,7 @@
 	<table name="Cruise Control Specifications Choice Flags" storageaddress="0x8314"/>
 	<table name="QH0 Operation Flags" storageaddress="0x8319"/>
 	<table name="C/S Backup Excuse Flag" storageaddress="0x7C93"/>
-	<table name="Electronic Throttle Control Flags" storageaddress="0x81F8"/>
+	<table name="Electronic Throttle Control Flags" storageaddress="0x81FB"/>
 	<table name="TINT Compensation Permission Flag" storageaddress="0x8088"/>
 	<table name="The Whole Area Torque Going Down Control Switching Flag" storageaddress="0x8363"/>
 	<table name="KATHOS Choice Flag" storageaddress="0x8328"/>
