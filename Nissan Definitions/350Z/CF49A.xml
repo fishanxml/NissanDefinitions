@@ -63,7 +63,7 @@
 	<table name="Speed Limiter" storageaddress="0x8A6A"/>
 	<table name="Speed Limiter (Fuel Cut)" storageaddress="0x8568"/>
 	<table name="Speed Limiter (Fuel Restore)" storageaddress="0x8574"/>
-	<table name="TCS Fuel Cut Prohibition Speed Table" storageaddress="0xC26C"/>
+	<table name="TCS Fuel Cut Prohibition RPM Table" storageaddress="0xC26C"/>
 	<table name="Target AFR MBT Compensation Table" storageaddress="0xB840"/>
 	<table name="Target AFR MBT Compensation Table 2" storageaddress="0xBEAC"/>
 	<table name="Throttle Body Opening Area Calibration Table" storageaddress="0xCA3C"/>
@@ -116,6 +116,7 @@
     <table name="ISC Opening Area Upper Limit Table 2 (RPM Compensation)" storageaddress="0xDE78"/>
     <table name="ISC Opening Area Upper Limit Table 2" storageaddress="0xDE58"/>	
     <table name="Idle LTFT Limits" storageaddress="0x82C5"/>
+	
 	
 	<table name="Target Throttle Valve Opening Table" storageaddress="0xC4CC">
 		<table type="X Axis" storageaddress="0xD152"/>
